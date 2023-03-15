@@ -19,12 +19,6 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Saulo é barril",
-      "autoria": "Saulo",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
       "conteudo": "Testando redirecionamento de rota ao salvar",
       "autoria": "Saulo",
       "modelo": "modelo2",
