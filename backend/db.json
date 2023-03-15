@@ -1,28 +1,22 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "O que você faz hoje pode melhorar todos os seus amanhãs.",
-      "autor": "Ralph Marston",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "A vida é como andar de bicicleta. Para manter o equilíbrio, é preciso se manter em movimento.",
-      "autor": "Albert Einstein",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Siuuuuuu Receba!",
-      "autor": "Luva de Pedreiro",
-      "modelo": "modelo3"
+      "conteudo": "Siuuuu Receba",
+      "autoria": "Luva de Pedreiro",
+      "modelo": "modelo3",
+      "id": 1
     },
     {
       "conteudo": "Testando redirecionamento de rota ao salvar",
       "autoria": "Saulo",
       "modelo": "modelo2",
-      "id": 5
+      "id": 2
+    },
+    {
+      "conteudo": "Xbox Series S",
+      "autoria": "Microsoft",
+      "modelo": "modelo1",
+      "id": 3
     }
   ]
 }
